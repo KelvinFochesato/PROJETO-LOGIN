@@ -1,0 +1,39 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background: rgb(31, 182, 187);   
+}
+
+body * {
+    font-family:cursive;
+}
+
+
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+.text-titulo {
+    font-size: 15pt;
+    text-align: center;
+}
+
+.map {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 10px 10px  red;
+    border-radius: 10px;
+}
+
+.text-down {
+   
+       
+    padding-bottom:px;
+    text-align: center;
+    font-size: 15pt;
+    background-color: red;
+
+}
